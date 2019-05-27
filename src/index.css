@@ -10,7 +10,10 @@
   height: 100%;
 }
 
-.black {
+.blackFill {
   background-color: black;
+}
+
+.blackStroke {
   color: black;
 }

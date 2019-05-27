@@ -1,6 +1,6 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import Board from './Board.jsx';
+import React from "react";
+import ReactDOM from "react-dom";
+import "./index.css";
+import App from "./App.jsx";
 
-ReactDOM.render(<Board />, document.getElementById('root'));
+ReactDOM.render(<App />, document.getElementById("root"));
